@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning advanced Python
 
-- 📫 How to reach me : valentin.thal@etudiant.univ-lr.fr
+- 📫 How to reach me : valentin.pascual51@gmail.com
 
 <!---
 vth-creator/vth-creator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
